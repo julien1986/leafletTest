@@ -31,3 +31,7 @@
     transform: rotate(360deg);
   }
 }
+.plan {
+  width: 600px;
+  height: 400px;
+}
